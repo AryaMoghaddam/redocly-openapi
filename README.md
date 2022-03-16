@@ -248,3 +248,21 @@ You'll also notice `$ref`s to code samples.
 You can add languages by adding new folders at the appropriate path level.
 
 More details inside the `code_samples` folder README.
+
+### Checking the OpenAPI against the Best Practices
+
+![Screenshot 2022-03-16 130407](https://user-images.githubusercontent.com/63557848/158651191-a8ef68c5-1b70-43c3-a884-71973fb5ce91.png)
+
+### Running the Bundle
+![Screenshot 2022-03-16 131403](https://user-images.githubusercontent.com/63557848/158651240-47cf1a65-59c0-43ee-8a4a-d213d0eb1eb4.png)
+
+### Server Running
+![Screenshot 2022-03-16 131649](https://user-images.githubusercontent.com/63557848/158651301-70065110-f9ac-4f7c-b676-ef77cbf148ae.png)
+
+### Results
+![Screenshot 2022-03-16 131403](https://user-images.githubusercontent.com/63557848/158651641-64030574-c11f-45a8-b6b5-96a7eeb96ab7.png)
+![Screenshot 2022-03-16 131649](https://user-images.githubusercontent.com/63557848/158651690-f6b2cc0c-881e-4545-9d51-9713485120ce.png)
+
+
+
+
