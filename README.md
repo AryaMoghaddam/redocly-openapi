@@ -270,7 +270,5 @@ GET/http://127.0.0.1:8080/weather
 ```
 ![image](https://user-images.githubusercontent.com/63557848/159958600-20819596-b370-499d-8210-db4c38498a9d.png)
 
-Response is 200 Ok! We're Done!
-
 
 
