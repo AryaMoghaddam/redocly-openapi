@@ -9,6 +9,29 @@
 
 ### Usage
 
+#### Installing a Json Server
+```
+npm install -global json-server
+```
+#### Loading the server through the db.json file you have
+```
+json-server --watch db.json 
+```
+OR
+```
+json-server --watch src/db.json 
+```
+##### Now we have access to the REST API  via local host
+```
+http://localhost:3000
+```
+And we can run a postman get request on it.
+For my particular example, I ran a 
+```
+Get/ http://localhost:3000/ clients 
+```
+and got the response: 
+
 #### `npm start`
 Starts the reference docs preview server.
 
