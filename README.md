@@ -31,6 +31,8 @@ For my particular example, I ran a
 Get/ http://localhost:3000/ clients 
 ```
 and got the response: 
+![image](https://user-images.githubusercontent.com/63557848/162053942-42669999-ec02-4f5a-845e-5bd085e499a2.png)
+
 
 #### `npm start`
 Starts the reference docs preview server.
