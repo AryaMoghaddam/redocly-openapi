@@ -174,6 +174,7 @@ You will use `$ref`s to reference schema from your path definitions.
 3. Edit.
 
 ### Paths
+## Automate generation with Multifile structure
 
 #### Adding a Path
 
